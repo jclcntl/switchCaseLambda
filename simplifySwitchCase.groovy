@@ -22,4 +22,4 @@ def pewpew2Closure = {
 
 def pew2 = ["hello":pewpewClosure, "hello2": pewpew2Closure]
         
-pew2["pewpew2"].call()​
+pew2[pew].call()​
